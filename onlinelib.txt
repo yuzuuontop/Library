@@ -1,0 +1,19 @@
+{
+  "menu_title": "SYSTEM SELECT",
+  "systems": [
+    {
+      "name": "Owl Hax",
+      "status": "ONLINE",
+      "lib_name": "libOwlHax.so",
+      "download_url": "https://github.com/Roxy-K373/Libs/raw/main/libDoivhax.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "VIENHAX FREE",
+      "status": "ONLINE",
+      "lib_name": "libVanfree.so",
+      "download_url": "https://github.com/Roxy-K373/Cheyter-ako/raw/main/libVanfree.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    }
+  ]
+}

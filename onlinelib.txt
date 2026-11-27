@@ -44,17 +44,17 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "HUMPHREY PREMIUM MOD",
+      "name": "YXR Test 2",
       "status": "ONLINE",
-      "lib_name": "lib7.so",
-      "download_url": "https://github.com/Niuniu143/Yueyue/raw/refs/heads/main/lib7.so",
+      "lib_name": "libTest.so",
+      "download_url": "https://raw.githubusercontent.com/yuzuuontop/Library/refs/heads/main/libTest.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "ZENO FREE MOD",
+      "name": "YXR Test 1",
       "status": "ONLINE",
-      "lib_name": "lib8.so",
-      "download_url": "https://github.com/Niuniu143/Yueyue/raw/refs/heads/main/lib8.so",
+      "lib_name": "libTite.so",
+      "download_url": "https://raw.githubusercontent.com/yuzuuontop/Library/refs/heads/main/libTite.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {

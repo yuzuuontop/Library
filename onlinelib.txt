@@ -53,8 +53,8 @@
     {
       "name": "YXR Test 1",
       "status": "ONLINE",
-      "lib_name": "libTite.so",
-      "download_url": "https://raw.githubusercontent.com/yuzuuontop/Library/refs/heads/main/libTite.so",
+      "lib_name": "libTest.so",
+      "download_url": "https://raw.githubusercontent.com/yuzuuontop/Library/refs/heads/main/libTest.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {

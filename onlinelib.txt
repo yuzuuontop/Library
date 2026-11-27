@@ -44,10 +44,10 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "YXR Test 2",
+      "name": "YXR",
       "status": "ONLINE",
       "lib_name": "libTest.so",
-      "download_url": "https://raw.githubusercontent.com/yuzuuontop/Library/refs/heads/main/libTest.so",
+      "download_url": "https://raw.githubusercontent.com/yuzuuontop/Library/refs/heads/main/libYXR.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {

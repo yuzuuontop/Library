@@ -46,7 +46,7 @@
     {
       "name": "YXR",
       "status": "ONLINE",
-      "lib_name": "libTest.so",
+      "lib_name": "libYXR.so",
       "download_url": "https://raw.githubusercontent.com/yuzuuontop/Library/refs/heads/main/libYXR.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },

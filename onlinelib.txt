@@ -1,5 +1,5 @@
 {
-  "menu_title": "IMMORTAL KING MOD",
+  "menu_title": "Yuzuu Multi Lib",
   "systems": [
     {
       "name": "JX-CODMGR",

@@ -61,7 +61,7 @@
       "name": "Kys Metric",
       "status": "ONLINE",
       "lib_name": "libSovereign.so",
-      "download_url": "https://github.com/yuzuuontop/Library/blob/main/libSovereign.so",
+"download_url":"https://raw.githubusercontent.com/yuzuuontop/Library/refs/heads/main/libSovereign.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]

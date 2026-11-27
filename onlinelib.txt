@@ -1,18 +1,67 @@
 {
-  "menu_title": "SYSTEM SELECT",
+  "menu_title": "IMMORTAL KING MOD",
   "systems": [
     {
-      "name": "Owl Hax",
+      "name": "JX-CODMGR",
       "status": "ONLINE",
-      "lib_name": "libOwlHax.so",
-      "download_url": "https://github.com/Roxy-K373/Libs/raw/main/libDoivhax.so",
+      "lib_name": "lib1.so",
+      "download_url": "https://github.com/Niuniu143/Yueyue/raw/refs/heads/main/lib1.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"       
+    },
+    {
+      "name": "NOTYOURAVERAGEXINN",
+      "status": "ONLINE",
+      "lib_name": "lib2.so",
+      "download_url": "https://github.com/Niuniu143/Yueyue/raw/refs/heads/main/lib2.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "VIENHAX FREE",
+      "name": "VEXABYTE",
       "status": "ONLINE",
-      "lib_name": "libVanfree.so",
-      "download_url": "https://github.com/Roxy-K373/Cheyter-ako/raw/main/libVanfree.so",
+      "lib_name": "lib3.so",
+      "download_url": "https://github.com/Niuniu143/Yueyue/raw/refs/heads/main/lib3.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "LUKE PREMIUM MOD",
+      "status": "ONLINE",
+      "lib_name": "lib4.so",
+      "download_url": "https://github.com/Niuniu143/Yueyue/raw/refs/heads/main/lib4.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "KAELEX PREMIUM MOD",
+      "status": "ONLINE",
+      "lib_name": "lib5.so",
+      "download_url": "https://github.com/Niuniu143/Yueyue/raw/refs/heads/main/lib5.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "ARESS MOD",
+      "status": "ONLINE",
+      "lib_name": "lib6.so",
+      "download_url": "https://github.com/Niuniu143/Yueyue/raw/refs/heads/main/lib6.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "HUMPHREY PREMIUM MOD",
+      "status": "ONLINE",
+      "lib_name": "lib7.so",
+      "download_url": "https://github.com/Niuniu143/Yueyue/raw/refs/heads/main/lib7.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "ZENO FREE MOD",
+      "status": "ONLINE",
+      "lib_name": "lib8.so",
+      "download_url": "https://github.com/Niuniu143/Yueyue/raw/refs/heads/main/lib8.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "Kys Metric",
+      "status": "ONLINE",
+      "lib_name": "libSovereign.so",
+      "download_url": "https://github.com/Niuniu143/Yueyue/raw/refs/heads/main/lib9.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]

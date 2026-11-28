@@ -7,6 +7,14 @@
       "lib_name": "libYXR.so",
       "download_url": "https://raw.githubusercontent.com/yuzuuontop/Library/refs/heads/main/libYXR.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    }
+    },
+    {
+      "name": "YXR Synthetic",
+      "status": "ONLINE",
+      "lib_name": "libSynthetic.so",
+      "download_url": "https://raw.githubusercontent.com/yuzuuontop/Library/raw/refs/heads/main/libSynthetic.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+
+   }
   ]
 }

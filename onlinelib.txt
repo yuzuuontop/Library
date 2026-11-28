@@ -2,66 +2,10 @@
   "menu_title": "Yuzuu Multi Lib",
   "systems": [
     {
-      "name": "JX-CODMGR",
-      "status": "ONLINE",
-      "lib_name": "lib1.so",
-      "download_url": "https://github.com/Niuniu143/Yueyue/raw/refs/heads/main/lib1.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"       
-    },
-    {
-      "name": "NOTYOURAVERAGEXINN",
-      "status": "ONLINE",
-      "lib_name": "lib2.so",
-      "download_url": "https://github.com/Niuniu143/Yueyue/raw/refs/heads/main/lib2.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
-    {
-      "name": "VEXABYTE",
-      "status": "ONLINE",
-      "lib_name": "lib3.so",
-      "download_url": "https://github.com/Niuniu143/Yueyue/raw/refs/heads/main/lib3.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
-    {
-      "name": "LUKE PREMIUM MOD",
-      "status": "ONLINE",
-      "lib_name": "lib4.so",
-      "download_url": "https://github.com/Niuniu143/Yueyue/raw/refs/heads/main/lib4.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
-    {
-      "name": "KAELEX PREMIUM MOD",
-      "status": "ONLINE",
-      "lib_name": "lib5.so",
-      "download_url": "https://github.com/Niuniu143/Yueyue/raw/refs/heads/main/lib5.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
-    {
-      "name": "ARESS MOD",
-      "status": "ONLINE",
-      "lib_name": "lib6.so",
-      "download_url": "https://github.com/Niuniu143/Yueyue/raw/refs/heads/main/lib6.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
-    {
-      "name": "YXR",
+      "name": "YXR Owl",
       "status": "ONLINE",
       "lib_name": "libYXR.so",
       "download_url": "https://raw.githubusercontent.com/yuzuuontop/Library/refs/heads/main/libYXR.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
-    {
-      "name": "YXR Test 1",
-      "status": "ONLINE",
-      "lib_name": "libTest.so",
-      "download_url": "https://raw.githubusercontent.com/yuzuuontop/Library/refs/heads/main/libTest.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
-    {
-      "name": "Kys Metric",
-      "status": "ONLINE",
-      "lib_name": "libSovereign.so",
-"download_url":"https://raw.githubusercontent.com/yuzuuontop/Library/refs/heads/main/libSovereign.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
